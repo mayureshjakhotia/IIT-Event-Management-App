@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/top_featured_events"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/colorTopScrollBar"
+                android:text="@string/featured_events"
+                android:padding="20dp" />
+
+            <Button
+                android:id="@+id/top_all_events"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/colorTopScrollBar"
+                android:text="@string/all_events"
+                android:padding="20dp" />
+
+
+            <Button
+                android:id="@+id/top_registered_events"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/colorTopScrollBar"
+                android:text="@string/registered_events"
+                android:padding="20dp" />
+
+
+            <Button
+                android:id="@+id/top_my_hosting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/colorTopScrollBar"
+                android:text="@string/my_hosting_events"
+                android:padding="20dp" />
+
+            <Button
+                android:id="@+id/top_past_events"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/colorTopScrollBar"
+                android:text="@string/past_events"
+                android:padding="20dp" />
+
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+</LinearLayout>

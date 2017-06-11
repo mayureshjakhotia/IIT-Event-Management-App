@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_admin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_image5"
+    tools:context="com.cs442.group7.eventiit.AdminActivity">
+
+    <TextView
+        android:id="@+id/title_profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textStyle="italic"
+        android:text="Welcome ADMIN"
+        android:textSize="25sp"
+        android:gravity="center_horizontal"
+        android:padding="20dp"
+        android:fontFamily="sans-serif-condensed"
+        android:background="@color/colorProfileTitle"/>
+    <EditText
+        android:id="@+id/input_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:padding="20dp"
+        android:layout_marginTop="20dp"
+        android:hint="Message Title."
+        android:textColorHint="@color/colorLogInScreen"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:fontFamily="cursive"
+        android:maxLength="99"
+        android:layout_below="@+id/title_profile"/>
+    <EditText
+        android:id="@+id/input_message"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:textColor="@color/black"
+        android:padding="20dp"
+        android:layout_marginTop="20dp"
+        android:hint="Type Your Message Here."
+        android:textColorHint="@color/colorLogInScreen"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:fontFamily="cursive"
+        android:layout_below="@+id/input_header"/>
+
+
+    <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/isAlert"
+            android:text="Alert Message!"
+            android:checked="false"
+            android:checkMarkTint="@color/white"
+            android:layout_below="@+id/input_message"
+        android:textColor="@color/cancelButton"
+         android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_margin="15dp"/>
+
+
+
+
+    <Button
+        android:id="@+id/submit_message"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Submit Message"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        android:background="@drawable/button_hollow_background"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_below="@+id/isAlert"/>
+
+    <Button
+        android:id="@+id/delete_message"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Remove Submitted Messages"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        android:background="@drawable/button_hollow_background"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_below="@+id/submit_message"
+        android:layout_marginTop="20dp"/>
+
+    <!-- Button to logout session -->
+    <Button android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/log_out"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        android:textColor="@android:color/white"
+        android:background="@drawable/button_background2"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

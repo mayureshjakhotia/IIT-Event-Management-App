@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_home_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cs442.group7.eventiit.HomeScreen">
+
+    <LinearLayout
+
+        android:id="@+id/options_bar_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorSplashScreen"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+    <RelativeLayout
+
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/activity_create_event_bottom_padding_for_scrollview"
+        android:layout_below="@+id/options_bar_top">
+
+        <ListView
+            android:id="@+id/listview_this_week"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="#b5b5b5"
+            android:dividerHeight="1dp"
+            ></ListView>
+
+        <!--android:listSelector="@drawable/listview_list_selector"-->
+
+    </RelativeLayout>
+
+</RelativeLayout>
+
+

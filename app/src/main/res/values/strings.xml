@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Events-IIT</string>
+
+    <!-- NEW ADDITIONS -->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Folks!</string>
+    <string name="slide_1_desc">The easiest way to be updated. Never miss an event!!!</string>
+    <string name="slide_2_title">Create Events</string>
+    <string name="slide_2_desc">Create events, see RSVPed guests and send emails to registered guests!!!</string>
+
+    <string name="slide_3_title">Navigate</string>
+    <string name="slide_3_desc">Navigate to Interested Events in Real Time!</string>
+
+    <string name="slide_4_title">Personalise</string>
+    <string name="slide_4_desc">Receive notifications, Personalize your app.\nChange background, colors, sync to calendar and lot more!!!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <!-- TEXTVIEWS -->
+    <string name="splash_screen_event">Events</string>
+    <string name="splash_screen_iit">IIT</string>
+
+    <string name="login_screen">Discover and Experience\nAwesome Events at \nIllinois Tech.</string>
+
+    <!-- BUTTONS -->
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="cancel">Cancel</string>
+    <string name="google_sign_in">Sign In With HAWK ID</string>
+
+    <!-- EDITTEXT -->
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <!-- MENU RESOURCE FILE -->
+    <string name="search_title">Search</string>
+    <string name="settings_title">Settings</string>
+
+    <!-- App Bar -->
+    <string name="plus_for_new_event">+</string>
+
+    <!-- Top Options Bar -->
+    <string name="featured_events">Featured Events</string>
+    <string name="all_events">All Events</string>
+    <string name="registered_events">Registered Events</string>
+    <string name="past_events">Past Events</string>
+    <string name="my_hosting_events">Hosted Events</string>
+
+
+    <!-- Bottom Options Bar -->
+    <string name="events">Events</string>
+    <string name="map">Map</string>
+    <string name="profile">Profile</string>
+
+    <!-- TO DO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- CardView my_hosting -->
+    <string name="action_edit">Edit</string>
+    <string name="title_activity_edit_event">EditEvent</string>
+    <string name="log_out">Log Out</string>
+
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_map">Map</string>
+    <string name="action_view_all_rsvp">RSVPed Users</string>
+    <string name="this_event_is_already_over">This Event is Already Over.</string>
+    <string name="delete_event">Delete Event</string>
+    <string name="exclamation_for_messages">!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>

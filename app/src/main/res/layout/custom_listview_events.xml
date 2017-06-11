@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:id="@+id/list_view_relative_layout">
+
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/listitem_event_image"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentLeft="true" />
+
+
+    <TextView
+        android:id="@+id/listitem_event_name"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:layout_marginLeft="15dp"
+        android:layout_toRightOf="@id/listitem_event_image" />
+    <!--<view-->
+    <!--android:layout_marginLeft="10dp"-->
+    <!--android:layout_marginRight="10dp"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:background="@color/lineInListView"-->
+    <!--&gt;</view>-->
+
+    <TextView
+        android:id="@+id/listitem_event_timestamp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:layout_marginLeft="15dp"
+        android:layout_toRightOf="@id/listitem_event_image"
+        android:layout_below="@id/listitem_event_name" />
+
+
+</RelativeLayout>
+

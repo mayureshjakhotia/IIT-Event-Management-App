@@ -1,0 +1,64 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <style name="AppCombatThemeInFullScreen" parent="@style/Theme.AppCompat.Light">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+
+    <!--Popup menu my hosting-->
+    <style name="MyPopupMenu" parent="Widget.AppCompat.PopupMenu">
+        <item name="android:itemBackground">@drawable/popup_color_drawable</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="MyTitleTextStyle">
+        <item name="android:textColor">#3ba7ff</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Title</item>
+        <!--<item name="android:layout_marginLeft">0dp</item>-->
+    </style>
+
+    <!--<style name="MyAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert" >-->
+
+    <style name="MyAlertDialogStyle" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowTitleStyle">@style/MyTitleTextStyle</item>
+        <!-- Used for the buttons -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:buttonBarButtonStyle">@style/MyAlertDialogueButtonStyle</item>
+        <!--<item name="android:textAppearanceMedium">@style/MyAlertDialogueText</item>-->
+        <!-- Used for the background -->
+        <!--<item name="android:background">#FFFFFF</item>-->
+    </style>
+
+    <style name="MyAlertDialogueButtonStyle" parent="@android:style/Holo.ButtonBar.AlertDialog">
+        <item name="android:textColor">@android:color/holo_blue_light</item>
+    </style>
+
+    <!--<style name="MyAlertDialogueText" parent="@android:style/TextAppearance.Holo.Medium">-->
+        <!--<item name="android:textStyle">italic</item>-->
+        <!--<item name="android:textSize">14sp</item></style>-->
+
+</resources>

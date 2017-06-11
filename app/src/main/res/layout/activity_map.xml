@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_map"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cs442.group7.eventiit.MapsActivity">
+
+    <LinearLayout
+
+        android:id="@+id/options_bar_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorSplashScreen"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/options_bar_top">
+
+        <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:map="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/my_toolbar"
+            map:cameraZoom="16"
+            map:cameraTargetLat="41.833"
+            map:cameraTargetLng="-87.628294"
+            tools:context="com.cs442.group7.eventiit.Map" />
+
+        <!--<LinearLayout-->
+            <!--android:id="@+id/options_bar_bottom"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignParentBottom="true"-->
+            <!--android:background="@color/colorSplashScreen"-->
+            <!--android:orientation="horizontal">-->
+
+            <!--<include layout="@layout/options_bar_bottom" />-->
+
+        <!--</LinearLayout>-->
+
+    </RelativeLayout>
+
+    <!--<android.support.design.widget.NavigationView-->
+        <!--android:id="@+id/nav_view"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_gravity="start"-->
+        <!--android:fitsSystemWindows="true"-->
+        <!--app:headerLayout="@layout/nav_header_navigation_drawer"-->
+        <!--app:menu="@menu/activity_navigation_drawer" />-->
+
+</android.support.v4.widget.DrawerLayout>

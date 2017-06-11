@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_image1"
+    tools:context="com.cs442.group7.eventiit.MainActivity">
+
+    <TextView
+        android:id="@+id/text_login_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login_screen"
+        android:textStyle="italic"
+        android:textColor="@android:color/white"
+        android:textSize="40dp"
+        android:padding="40dp"
+        android:gravity="left"
+        android:layout_above="@+id/main_activity_buttons"
+        android:layout_marginBottom="50dp"
+        android:fontFamily="serif" />
+
+
+    <LinearLayout
+        android:id="@+id/main_activity_buttons"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:id="@+id/button_sign_up"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:text="@string/sign_up"
+            android:textColor="@android:color/white"
+            android:textSize="20dp"
+            android:background="@drawable/button_hollow_background"
+            android:fontFamily="sans-serif-smallcaps" />
+
+        <Button
+            android:id="@+id/button_log_in"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:text="@string/log_in"
+            android:textColor="@android:color/white"
+            android:textSize="20dp"
+            android:background="@drawable/button_hollow_background"
+            android:fontFamily="sans-serif-smallcaps" />
+
+    </LinearLayout>
+
+</RelativeLayout>

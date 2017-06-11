@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "577080018349",
+    "firebase_url": "https://eventiit-c5809.firebaseio.com",
+    "project_id": "eventiit-c5809",
+    "storage_bucket": "eventiit-c5809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577080018349:android:b27395adbf09f5f7",
+        "android_client_info": {
+          "package_name": "com.cs442.group7.eventiit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577080018349-71im9am0h7enenfj9l5jv5e5ulqbcjeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc_LHOb6wL0o8oOfNNmAyNrjXVMQo7PkU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

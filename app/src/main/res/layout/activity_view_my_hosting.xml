@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_my_hosting"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cs442.group7.eventiit.HomeScreen">
+
+    <LinearLayout
+
+        android:id="@+id/options_bar_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorSplashScreen"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+        android:layout_below="@+id/options_bar_top">
+            <include layout="@layout/content_my_hosting_recycler_view" />
+    </RelativeLayout>
+
+
+
+<!--<LinearLayout-->
+    <!--android:id="@+id/options_bar_bottom"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--android:background="@color/colorSplashScreen"-->
+    <!--android:orientation="horizontal">-->
+    <!--&lt;!&ndash;android:layout_below="@id/activity_my_hosting_recyclerview_linearlayout">&ndash;&gt;-->
+        <!--<include layout="@layout/options_bar_bottom" />-->
+
+    <!--</LinearLayout>-->
+
+</RelativeLayout>
+
+

@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.6.0_ee610eb816382f1e6cac60d8f6bef2b185f13d26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.0_bf56f8b3dccdd3b101fb745bd57cdbad3bcd7fa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.mcxiaoke.volley-library-aar-1.0.0_f5f14fe6857b34d24a4fcea53641513d2aea8c59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_1bdc24fe63fa8e1691fc46f52513250459d2fc89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.0_953b3883100479d9bb6ba6bb369dcf3d606c07ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.6.0_dc36fbb0c6c3f52c8b73d27060b8a45c17994290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.0_5a85e593bb11499f94eaa4937b20e6d50bf661fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_b409330a57cb12ac80d9192cf3cf9b89f4103e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.6.0_c5b02d1131ad10fa859971d2c3392819901e2f16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.6.0_e56ba9f1b173f7726b83eee05d10c9c533cbcd2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43ab9b69758a0f22706629223c367e9bd478e1a8">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.6.0_0c1a05191a58c5872601bc95e4d0490f4a5b43be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.6.0_c83aec5e27580399167af45365f01bdcf968d66e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.6.0_3d129390ba668b8696d600a54ab0e8b1e8c5db67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.6.0_ef34bf17a2cf62ee16454772fe400195c9480248.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ddbf96ba8582407ce3aa4980b22d83758643a993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.6.0_ee3cfb4ae8727dcea4ce3b98949d3ec12204c095.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.0_6b776647499de3818cd29681e6d1b76fcdaf7203.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.0_5657e92327128417ecae8aef0c88f693abd3dae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.6.0_1bbedf0288d0a0da4a50b9e57022982bf4d57722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.0_1169273494afae45419ac6db348c38d4080c89d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.0_4f79ce67083212a713f967581b1856383a23199d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-9.6.0_e28923cf8b7105562309227ece64d9263ba87760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b933361332505c985986445fe9df8ce44c5f74cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.6.0_27c0b9082a67f981c57de2bc26e88c5a74d8bac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.6.0_889e9c746233c9ddbe71a0a0a0afe27a096a42e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.6.0_fa4bf4a5ef7e2c114fbc30c85eec22e3a44edcb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.0_1deb257197027d1b58c280aaa0a39f6e100fa535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-9.6.0_1c0ecc14eb82a91d24ae9be2b57186b11895b36f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.0_67fc76f9a0fd62d937d9bf46ec122fa3ab25a2d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_52594c01693eb88b9adb7acc5fa4e330a4f7417f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.6.0_70ca72abde41211e6f25c4f3cd9e4747d7bccbd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_db2bca102dd1e207035fea662df9ad532c7292dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.6.0_3ee3523dd37412b4d6a6ac33127e57b890a03909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.6.0_cc32e2ee35356555ca8ec768d8dbb9127b714828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_296f0b89d3eec65ed82203a55fe591401c5eaadc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_5f914457bf8c9b370a9a8fd8998f6ce503789e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.6.0_1796eae9d1302afe62b3d4c4773e113ce3a4b846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_60671c4b5dea46f232f829550147fb76cb7912e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.6.0_ec9e7c9f639ce3b9db7b6e3d1a525ab7ef06a7d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="415336382149f2a79eb80599e340e188f6724d6d">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.6.0_4c687543ec82e4737cf15ee759b666ecb8c8d4d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_e727de3376c1c2c5cafddff1059ce3032436f59e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.6.0_2afaaa7e017738680faad447aaffa77131b4c48e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_8fd7da9f36c622826a4464f0def2df94e73a9078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_7736512d5c43864aa481e12958d572ea4d1ecca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_93b99cb402003fcfd26232fa7cef7c088441a569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_95fb83a457ebb7157be063083c824e7037654154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.0_75012919664d5cca7ee81a2c3da473110cca1da0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_d220715d93f650518c5598b0673aac4ddd5710b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="938ba83fbb26987368049237e47718d56e91e222">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.6.0_838b2155d3af34b54213f937bec58dd2f65a8d43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.6.0_723ad533e7718e2b89b35049275efe609143beef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.0_fe0b176f25ca95ed367fc4992c9a31a51bd2f2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_5e63c4f4cae71668fe51a3b8391f54ff928e0e65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_264abb20b5aa6975d105fa58c43a4bb5da2b8857.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.0_56c54380c54a218640bef0cf1282ff535ec89dd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.6.0_a585af086aa4d0d83b74f9b1e3d7510e6ccb9bd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_a783703349a487164abd34f6e721bc1e44add471.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf803332f826adea247cc452d0bb04d7943f0007">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.6.0_7d0dfda52e9bb6fbfa5b4ad578a7e71018ce74dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-9.6.0_194022dbfbda78a02138d5cd1c0ae020e786829c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f8c2caf00ebf06af0556943254f5226e91a0be74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.6.0_14f9276d18a29b1a86197ce7227e1a45dac90aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.6.0_033bc4d4cc1b4997fefa109981072307410d7ba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.0_835ef9649359ff3dde971319775ddb120a67f5fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4d5d21b329e877d81345aaad161c2296074de11c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.6.0_560cd22ec3eb48b2abfbd234a5b65f15cab29dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.1/f5aa318bda4c6c8d688c9d00b90681dcd82ce636/httpcore-4.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/httpcore-4.4.1_b55be49eb2928d5e0b7520a983255e04dd481d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.0_5301f46fde557a35f901e8394f55a508f5074d26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_5644ccafb2ea9eafb7287ed4ddbc288b5cdc6745.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.0_9eb766bbaefd2e22d1757116deed28c784ebbc8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.0_fb3046fe6acb41dc75eb670d946f1230104ae123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5fef4ad8c5b2519596b80a241d56b69dffcd6845">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-9.6.0_fef5d34500ecca59a48f316ae9aff36f1ff43855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.6.0_b7fc423d068eb71bdba1b2bc0aebec14bbfa58bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
+        <dex dex="/Users/mayureshjakhotia/Desktop/EventIIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.6.0_0a9cbdc7e0f6bee09ebb776e2cf81825ceffa76b.jar" />
+    </item>
+
+</items>

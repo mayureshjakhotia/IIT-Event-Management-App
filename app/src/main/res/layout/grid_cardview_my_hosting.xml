@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/card_margin"
+        android:elevation="3dp"
+        card_view:cardCornerRadius="@dimen/card_event_radius">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.android.volley.toolbox.NetworkImageView
+                android:id="@+id/my_hosting_thumbnail"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/my_hosting_event_image_height"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:clickable="true"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/my_hosting_event_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/my_hosting_thumbnail"
+                android:paddingLeft="@dimen/my_hosting_event_name_padding"
+                android:paddingRight="@dimen/my_hosting_event_name_padding"
+                android:paddingTop="@dimen/my_hosting_event_name_padding"
+                android:textColor="@color/my_hosting_event_name"
+                android:textSize="@dimen/my_hosting_event_name_size" />
+
+            <TextView
+                android:id="@+id/my_hosting_event_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/my_hosting_event_name"
+                android:paddingBottom="@dimen/my_hosting_event_date_padding_bottom"
+                android:paddingLeft="@dimen/my_hosting_event_name_padding"
+                android:paddingRight="@dimen/my_hosting_event_name_padding"
+                android:textSize="@dimen/my_hosting_event_date_size" />
+
+            <ImageView
+                android:id="@+id/my_hosting_overflow"
+                android:layout_width="@dimen/ic_overflow_width"
+                android:layout_height="@dimen/ic_overflow_height"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/my_hosting_thumbnail"
+                android:layout_marginTop="@dimen/ic_overflow_margin_top"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ic_dots" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MyHostingActivity"
+    tools:showIn="@layout/activity_view_my_hosting">
+<!--
+Commented by MJ
+-->
+    <!--android:layout_marginBottom="50dp"
+    -->
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/view_my_hosting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        android:scrollbars="vertical"
+        />
+
+</RelativeLayout>
+
+    <!--<android.support.v7.widget.RecyclerView-->
+    <!--android:id="@+id/view_my_hosting"-->
+    <!--android:scrollbars="vertical"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_below="@id/options_bar_top"/>-->
+    <!--com.cs442.group7.eventiit.app:layout_behavior="@string/appbar_scrolling_view_behavior"-->

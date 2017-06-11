@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_profile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cs442.group7.eventiit.Profile">
+
+    <RelativeLayout
+
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/options_bar_bottom">
+
+        <TextView
+            android:id="@+id/title_profile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textStyle="italic"
+            android:textSize="25dp"
+            android:gravity="center_horizontal"
+            android:padding="20dp"
+            android:fontFamily="sans-serif-smallcaps"
+            android:background="@color/colorProfileTitle"/>
+
+        <TextView
+            android:id="@+id/title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:padding="20dp"
+            android:text="Name: "
+            android:textSize="25dp"
+            android:gravity="left"
+            android:textStyle="bold"
+            android:layout_alignParentLeft="true"
+            android:fontFamily="cursive"
+            android:layout_below="@+id/title_profile"/>
+
+        <TextView
+            android:id="@+id/user_full_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:padding="20dp"
+            android:textSize="25dp"
+            android:gravity="right"
+            android:textStyle="bold"
+            android:layout_alignParentRight="true"
+            android:fontFamily="cursive"
+            android:layout_below="@+id/title_profile"/>
+
+        <TextView
+            android:id="@+id/title_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:padding="20dp"
+            android:text="Email: "
+            android:textSize="25dp"
+            android:gravity="left"
+            android:textStyle="bold"
+            android:layout_alignParentLeft="true"
+            android:fontFamily="cursive"
+            android:layout_below="@+id/user_full_name"/>
+
+        <TextView
+            android:id="@+id/user_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:padding="20dp"
+            android:textSize="25dp"
+            android:gravity="right"
+            android:textStyle="bold"
+            android:layout_alignParentRight="true"
+            android:fontFamily="cursive"
+            android:layout_marginBottom="50dp"
+            android:layout_below="@+id/user_full_name"/>
+
+        <!-- Button to logout session -->
+        <Button android:id="@+id/btnLogout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/log_out"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@android:color/white"
+            android:background="@color/colorProfileTitle"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_alignParentBottom="true"/>
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/options_bar_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorSplashScreen"
+        android:orientation="horizontal">
+
+        <include layout="@layout/options_bar_bottom" />
+
+    </LinearLayout>
+
+</RelativeLayout>

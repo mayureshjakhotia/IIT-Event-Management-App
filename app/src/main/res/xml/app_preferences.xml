@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="General">
+
+        <EditTextPreference
+            android:title="App Title"
+            android:summary="The title will be used in the main action bar."
+            android:key="title"
+            android:defaultValue="" />
+
+    </PreferenceCategory>
+<!--
+
+    <PreferenceCategory
+        android:title="Color">
+
+        <CheckBoxPreference
+            android:title="Dark Background"
+            android:summary="Overrides wallpaper with a dark background."
+            android:key="background_color"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>-->
+
+    <PreferenceCategory
+        android:title="Background">
+
+    <ListPreference
+        android:title="Select Wallpaper"
+        android:summary="Choose from neatly designed color combinations or wallpapers."
+        android:key="background"
+        android:defaultValue="1"
+        android:entries="@array/background_color_array"
+        android:entryValues="@array/background_color_values"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Overall Feel">
+
+        <ListPreference
+            android:title="App Bar"
+            android:summary="Change App Bar color."
+            android:key="app_bar"
+            android:defaultValue="1"
+            android:entries="@array/bar_color_array"
+            android:entryValues="@array/bar_color_values"/>
+
+        <ListPreference
+            android:title="Top Bar"
+            android:summary="Change Top Bar color."
+            android:key="top_bar"
+            android:defaultValue="1"
+            android:entries="@array/top_color_array"
+            android:entryValues="@array/top_color_values"/>
+
+
+        <ListPreference
+            android:title="Bottom Bar"
+            android:summary="Change Bottom Bar color."
+            android:key="bottom_bar"
+            android:defaultValue="1"
+            android:entries="@array/bottom_color_array"
+            android:entryValues="@array/bottom_color_values"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Category">
+
+        <CheckBoxPreference
+            android:title="All"
+            android:summary="Display events from all categories \n(Overrides individual selections)"
+            android:key="category_all"
+            android:defaultValue="true" />
+
+        <CheckBoxPreference
+            android:title="Computer Science"
+            android:key="category_computer_science"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:title="Festival"
+            android:key="category_festival"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:title="Deals"
+            android:key="category_deals"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:title="Sports"
+            android:key="category_sports"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:title="Music"
+            android:key="category_music"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:title="Food"
+            android:key="category_food"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:title="Arts"
+            android:key="category_arts"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:title="Science"
+            android:key="category_science"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:title="Architecture"
+            android:key="category_architecture"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:title="Career"
+            android:key="category_career"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:title="International Students"
+            android:key="category_international_students"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:title="Others"
+            android:key="category_others"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

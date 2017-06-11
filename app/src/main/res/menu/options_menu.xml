@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_messages"
+        android:title="@string/exclamation_for_messages"
+        android:icon="@drawable/ic_tool_bar_messages"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <item
+        android:id="@+id/menu_plus_for_new_event"
+        android:title="@string/plus_for_new_event"
+        android:icon="@drawable/ic_tool_bar_plus"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/settings_title" />
+
+</menu>

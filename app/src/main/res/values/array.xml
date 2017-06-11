@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Navigation drawer list -->
+    <string-array name="navigation_drawer_list_array">
+        <item>Featured Events</item>
+        <item>All Events</item>
+        <item>Registered Events</item>
+        <item>Past Events</item>
+        <item>Create New Event</item>
+        <item>Profile</item>
+        <item>Settings</item>
+        <item>Logout</item>
+    </string-array>
+
+
+    <!-- Preferences Background list -->
+    <string-array name="background_color_array">
+        <item>Serene Blue</item>
+        <item>Pleasant Green</item>
+        <item>Delightful Red</item>
+        <item>The Big Bean</item>
+        <item>Foggy Mountain</item>
+        <item>Snowy White</item>
+    </string-array>
+
+    <!-- Preferences Background list -->
+    <string-array name="background_color_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <!-- Preferences Bar list -->
+    <string-array name="bar_color_array">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Purple</item>
+        <item>Amber</item>
+        <item>Teal</item>
+    </string-array>
+
+    <!-- Preferences Bar list -->
+    <string-array name="bar_color_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <!-- Preferences Bar list -->
+    <string-array name="top_color_array">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Purple</item>
+        <item>Amber</item>
+        <item>Teal</item>
+    </string-array>
+
+    <!-- Preferences Bar list -->
+    <string-array name="top_color_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <!-- Preferences Bar list -->
+    <string-array name="bottom_color_array">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Purple</item>
+        <item>Amber</item>
+        <item>Teal</item>
+    </string-array>
+
+    <!-- Preferences Bar list -->
+    <string-array name="bottom_color_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+</resources>
